@@ -6,7 +6,7 @@ Para ver la práctica, sólo hay que descargar los archivos y ejecutar Live Serv
 ```javascript
 console.log("Resta", res);
 ```
-
+El primer cambio para los commits gráficos
 ### Miembros del equipo
 - Omar Mares Zamora
 - Neguib Zayed Beltrán Zuno
